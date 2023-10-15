@@ -1,0 +1,8 @@
+.idea
+Makefile
+CmakeCache.txt
+cmake_install.cmake
+CMakeFiles
+*.a
+*.so
+*.dylib
